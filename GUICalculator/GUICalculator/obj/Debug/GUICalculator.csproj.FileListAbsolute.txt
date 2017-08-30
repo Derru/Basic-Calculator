@@ -1,0 +1,64 @@
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\bin\Debug\GUICalculator.exe.config
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\bin\Debug\GUICalculator.exe
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\bin\Debug\GUICalculator.pdb
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\obj\Debug\GUICalculator.frmMain.resources
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\obj\Debug\GUICalculator.Properties.Resources.resources
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\obj\Debug\GUICalculator.csproj.GenerateResource.Cache
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\obj\Debug\GUICalculator.exe
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\obj\Debug\GUICalculator.pdb
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\bin\Debug\BasicMathsLibary.pdb
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\obj\Debug\GUICalculator.csprojResolveAssemblyReference.cache
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\bin\Debug\CalcAlgebraic.dll
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\bin\Debug\CalcAlgebraic.pdb
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\bin\Debug\CalcTrigonometric.dll
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\bin\Debug\CalcTrigonometric.pdb
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\bin\Debug\CalcArithmetic.dll
+E:\Diploma\C#_Packages\GUICalculator\GUICalculator\bin\Debug\CalcArithmetic.pdb
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\GUICalculator.exe.config
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\obj\Debug\GUICalculator.exe
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\obj\Debug\GUICalculator.pdb
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\GUICalculator.exe
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\GUICalculator.pdb
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\CalcAlgebraic.dll
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\CalcArithmetic.dll
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\CalcTrigonometric.dll
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\BasicMathsLibary.pdb
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\CalcAlgebraic.pdb
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\CalcArithmetic.pdb
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\CalcTrigonometric.pdb
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\obj\Debug\GUICalculator.csprojResolveAssemblyReference.cache
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\obj\Debug\GUICalculator.frmMain.resources
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\obj\Debug\GUICalculator.Properties.Resources.resources
+E:\Diploma\C# III\Week6\GUICalculator\GUICalculator\obj\Debug\GUICalculator.csproj.GenerateResource.Cache
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\GUICalculator.exe.config
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\obj\Debug\GUICalculator.exe
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\obj\Debug\GUICalculator.pdb
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\GUICalculator.exe
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\GUICalculator.pdb
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\CalcAlgebraic.dll
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\CalcArithmetic.dll
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\CalcTrigonometric.dll
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\BasicMathsLibary.pdb
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\CalcAlgebraic.pdb
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\CalcArithmetic.pdb
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\bin\Debug\CalcTrigonometric.pdb
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\obj\Debug\GUICalculator.csprojResolveAssemblyReference.cache
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\obj\Debug\GUICalculator.frmMain.resources
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\obj\Debug\GUICalculator.Properties.Resources.resources
+G:\Diploma\C# III\Week6\GUICalculator\GUICalculator\obj\Debug\GUICalculator.csproj.GenerateResource.Cache
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\bin\Debug\GUICalculator.exe.config
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\obj\Debug\GUICalculator.exe
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\obj\Debug\GUICalculator.pdb
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\bin\Debug\GUICalculator.exe
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\bin\Debug\GUICalculator.pdb
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\bin\Debug\CalcAlgebraic.dll
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\bin\Debug\CalcArithmetic.dll
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\bin\Debug\CalcTrigonometric.dll
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\bin\Debug\BasicMathsLibary.pdb
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\bin\Debug\CalcAlgebraic.pdb
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\bin\Debug\CalcArithmetic.pdb
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\bin\Debug\CalcTrigonometric.pdb
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\obj\Debug\GUICalculator.csprojResolveAssemblyReference.cache
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\obj\Debug\GUICalculator.frmMain.resources
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\obj\Debug\GUICalculator.Properties.Resources.resources
+G:\Diploma\C# III\Week7\GUICalculator\GUICalculator\obj\Debug\GUICalculator.csproj.GenerateResource.Cache

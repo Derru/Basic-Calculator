@@ -1,0 +1,4 @@
+E:\Diploma\C#_Packages\CalcAlgebraic\CalcAlgebraic\bin\Debug\CalcAlgebraic.dll
+E:\Diploma\C#_Packages\CalcAlgebraic\CalcAlgebraic\bin\Debug\CalcAlgebraic.pdb
+E:\Diploma\C#_Packages\CalcAlgebraic\CalcAlgebraic\obj\Debug\CalcAlgebraic.dll
+E:\Diploma\C#_Packages\CalcAlgebraic\CalcAlgebraic\obj\Debug\CalcAlgebraic.pdb

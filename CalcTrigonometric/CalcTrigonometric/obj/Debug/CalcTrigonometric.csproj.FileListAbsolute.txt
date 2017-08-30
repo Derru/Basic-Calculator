@@ -1,0 +1,14 @@
+E:\Diploma\C#_Packages\CalcTrigonometric\CalcTrigonometric\bin\Debug\CalcTrigonometric.dll
+E:\Diploma\C#_Packages\CalcTrigonometric\CalcTrigonometric\bin\Debug\CalcTrigonometric.pdb
+E:\Diploma\C#_Packages\CalcTrigonometric\CalcTrigonometric\obj\Debug\CalcTrigonometric.dll
+E:\Diploma\C#_Packages\CalcTrigonometric\CalcTrigonometric\obj\Debug\CalcTrigonometric.pdb
+E:\Diploma\C# III\Week6\CalcTrigonometric\CalcTrigonometric\bin\Debug\CalcTrigonometric.dll
+E:\Diploma\C# III\Week6\CalcTrigonometric\CalcTrigonometric\bin\Debug\CalcTrigonometric.pdb
+E:\Diploma\C# III\Week6\CalcTrigonometric\CalcTrigonometric\obj\Debug\CalcTrigonometric.csprojResolveAssemblyReference.cache
+E:\Diploma\C# III\Week6\CalcTrigonometric\CalcTrigonometric\obj\Debug\CalcTrigonometric.dll
+E:\Diploma\C# III\Week6\CalcTrigonometric\CalcTrigonometric\obj\Debug\CalcTrigonometric.pdb
+G:\Diploma\C# III\Week6\CalcTrigonometric\CalcTrigonometric\bin\Debug\CalcTrigonometric.dll
+G:\Diploma\C# III\Week6\CalcTrigonometric\CalcTrigonometric\bin\Debug\CalcTrigonometric.pdb
+G:\Diploma\C# III\Week6\CalcTrigonometric\CalcTrigonometric\obj\Debug\CalcTrigonometric.csprojResolveAssemblyReference.cache
+G:\Diploma\C# III\Week6\CalcTrigonometric\CalcTrigonometric\obj\Debug\CalcTrigonometric.dll
+G:\Diploma\C# III\Week6\CalcTrigonometric\CalcTrigonometric\obj\Debug\CalcTrigonometric.pdb

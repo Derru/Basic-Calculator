@@ -1,0 +1,5 @@
+E:\Diploma\C#_Packages\CalcArithmetic\CalcArithmetic\bin\Debug\CalcArithmetic.dll
+E:\Diploma\C#_Packages\CalcArithmetic\CalcArithmetic\bin\Debug\CalcArithmetic.pdb
+E:\Diploma\C#_Packages\CalcArithmetic\CalcArithmetic\obj\Debug\CalcArithmetic.csprojResolveAssemblyReference.cache
+E:\Diploma\C#_Packages\CalcArithmetic\CalcArithmetic\obj\Debug\CalcArithmetic.dll
+E:\Diploma\C#_Packages\CalcArithmetic\CalcArithmetic\obj\Debug\CalcArithmetic.pdb
